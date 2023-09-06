@@ -29,5 +29,5 @@ networks:
   private:
   nopnet:
 volumes:
-  nop-db
+  nop-db:
 
